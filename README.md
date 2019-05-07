@@ -1,12 +1,11 @@
-# Create React App example
+# Create React App example with Material UI (works for production build)
 
 ## How to use
 
-Download the example [or clone the repo](https://github.com/mui-org/material-ui):
+Download the example [or clone the repo](https://github.com/gopal1166/material-ui-create-react-app.git):
 
 ```sh
-curl https://codeload.github.com/mui-org/material-ui/tar.gz/next | tar -xz --strip=2 material-ui-next/examples/create-react-app
-cd create-react-app
+cd material-ui-create-react-app
 ```
 
 Install it and run:
@@ -16,6 +15,4 @@ npm install
 npm run start
 ```
 
-## The idea behind the example
-
-[Create React App](https://github.com/facebookincubator/create-react-app) with no build configuration.
+please check images folder FYI
